@@ -8,4 +8,4 @@ A name should be passed as input when running the program.
 
 Have fun testing names!
 
-If someone out there that knows chemistry could add a feature where a chemical compound featuring all the chemical symbols is output, that would be great.
+If someone out there that knows chemistry could add a feature which returns a chemical compound featuring all of the found chemical symbols, that would be great.
