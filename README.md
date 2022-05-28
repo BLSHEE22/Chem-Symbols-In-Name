@@ -1,6 +1,6 @@
 # Does-Name-Contain-Chem-Symbol
 
-Inspired by AMC's Breaking Bad:
+Inspired by AMC's "Breaking Bad:"
 
 This is a program which determines how many different chemical symbols are contained within a name.
 
