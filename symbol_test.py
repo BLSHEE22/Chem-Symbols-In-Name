@@ -97,7 +97,7 @@ def main():
     else:
         print("\nThere are " + str(len(finds)) + " different chemical symbols contained in " + name0 + ".\n")
         print(str(finds) + "\n")
-        print("The earliest occuring one is " + outputEl + "!\n")
+        print("The earliest occurring one is " + outputEl + "!\n")
         print(output)
 
     print()
